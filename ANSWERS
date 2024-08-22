@@ -1,0 +1,40 @@
+1. Software engineering- this is the process of designing,developing and maintaining of  software systems and its importance of software engineering in technology industry is it enables the creation of software applications and systems.
+2. milestones in the evolution of software engineering
+       Early programming:it was directly written in machine level code.
+       Structed programming:it emphasized on clear,logical flow in codin and introduced concepts to reduce complexity.
+       Object oriented programming:it focused on encapsulation,inheritance and polymorphism to model real world systems
+3. Phases of the Software Development Life Cycle
+        Implementation:is the writing code and building the software according to the design specifications.
+        Testing:is the conducting of various tests to ensure the software meets quality standards and functional requirements.
+        Deployment:is the releasing of the software to users.
+        Maintenance: is the providing of ongoing support, updates, and enhancements to the software after deployment.
+4. Waterfall and Agile methodologies-waterfall methodology is the sequential approach with distinct phases flowing downwards like a waterfall e.g.,design and  implementation while Agile methodology is the iterative and incremental approach focused on flexibility, collaboration, and responding to change.e.g, scrum and kanban
+5. Roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+     Software Developer- is responsible for writing code and implementing software solutions.
+     Quality Assurance Engineer- they ensure software quality by designing and executing test plans.
+     Project Manager-they oversee the planning, execution, and delivery of software projects.
+     System Architect-they design the overall structure and architecture of software systems.
+     UI/UX Designer-they create user interfaces and designs user experiences for software applications.
+6. Importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process.
+      Integrated Development Environments (IDEs)- is a software suite that provide comprehensive tools for writing, debugging, and testing code.e.g., Visual Studio and Eclipse.
+      Version Control Systems (VCS)- is a Software tool for tracking changes to source code and coordinating work among team members. e.g., Git and Subversion.
+7. Common challenges faced by software engineers.
+        Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
+        Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
+        Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
+   Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
+8. Different types of testing.And their importance in software quality assurance.
+       Integration Testing-Used to test interactions between different components or subsystems.
+       System Testing-Used to test the entire software system as a whole.
+       Acceptance Testing- Used to test the software against user requirements to ensure it meets user needs.
+       Unit Testing-used to test individual components or modules of software.
+9. Prompt engineering and discuss its importance in interacting with AI models.
+      Prompt engineering is  the process of designing and refining prompts to effectively communicate with AI models and its importance is it tells the robot exactly what information you need and how you want it presented.
+10. Example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+       Vague Prompt: "Tell me about climate change."
+       Improved Prompt: "Explain how human activities contribute to global warming and suggest three strategies to reduce greenhouse gas emissions."
+   Why the Improved Prompt is More Effective:
+      Specificity- The improved prompt narrows down the topic to "increasing brand awareness" within "digital marketing," rather than covering marketing in general. This focused approach makes it easier to provide a detailed and relevant response.
+      Clarity- By specifying "three key strategies," the prompt clearly indicates how many strategies are expected, which helps in organizing the response in a structured manner.
+      Conciseness- The prompt is direct and to the point, avoiding any ambiguity about the depth or breadth of the information required. This ensures that the response is relevant and targeted.
+
