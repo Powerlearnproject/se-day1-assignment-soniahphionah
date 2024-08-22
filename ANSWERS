@@ -28,7 +28,7 @@
        System Testing-Used to test the entire software system as a whole.
        Acceptance Testing- Used to test the software against user requirements to ensure it meets user needs.
        Unit Testing-used to test individual components or modules of software.
-9. Prompt engineering and discuss its importance in interacting with AI models.
+9. Prompt engineering and discuss its importance in interacting with AI Models.
       Prompt engineering is  the process of designing and refining prompts to effectively communicate with AI models and its importance is it tells the robot exactly what information you need and how you want it presented.
 10. Example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
        Vague Prompt: "Tell me about climate change."
